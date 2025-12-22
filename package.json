@@ -1,0 +1,11 @@
+{
+  "name": "anomalous-scattering",
+  "version": "0.1.0",
+  "description": "Calculate anomalous scattering factors of elements",
+  "keywords": ["X-ray", "Anomalous", "Scattering", "Dispersion"],
+  "homepage": "https://github.com/paulsbond/anomalous-scattering#readme",
+  "bugs": "https://github.com/paulsbond/anomalous-scattering/issues",
+  "license": "MIT",
+  "author": "Paul Bond",
+  "repository": "github:paulsbond/anomalous-scattering"
+}
